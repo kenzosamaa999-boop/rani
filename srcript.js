@@ -3,8 +3,8 @@
 // 1. KONEKSI SUPABASE
 // =====================================
 
-const SUPABASE_URL = "MASUKKAN_PROJECT_URL";
-const SUPABASE_KEY = "MASUKKAN_PUBLISHABLE_KEY";
+const SUPABASE_URL = "https://rkghyjznvfxrbqkkmwkz.supabase.co";
+const SUPABASE_KEY = "sb_publishable_wsZ7xGdM0FXNKaVSS3wE9w_YRi36Ehp";
 
 const db = window.supabase.createClient(
     SUPABASE_URL,
